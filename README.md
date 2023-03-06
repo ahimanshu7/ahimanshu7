@@ -2,7 +2,7 @@
 - 👀 Interested in advanced distributed systems,security, performance optimizations and data projects. 
 - 🌱 Learning  HCI.
 - 💞️ Looking to collaborate on Distributed Databases, multithreaded client.
-- 📫 reach me @ avinashimanshu@gmail.com
+- 📫 reach me 
 
 <!---
 ahimanshu7/ahimanshu7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
