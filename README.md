@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ahimanshu7
 - 👀 Interested in advanced distributed systems,security, performance optimizations and data projects. 
-- 🌱 Learning  HCI.
-- 💞️ Looking to collaborate on Distributed Databases, multithreaded client.
+- 🌱 HCI 
+- 💞️ collaborate on Distributed Databases, multithreaded datastore client.
 - 📫 reach me 
 
 <!---
